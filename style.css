@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+ .navbar{
+    background-color: white;
+    width: 100%;
+    display: flex;
+    justify-content : space-around;
+    align-items: center;
+    height: 120px;
+}
+
+.nav-pages-links{
+    display: flex;
+    gap: 65px;
+    align-items: center;
+    margin-right: 55px;
+}
+
+.nav-btn>button {
+    background-color: #75BF7A;
+    width: 105px;
+    border: none;
+    color: white;
+    height: 35px;
+}
+
+.nav-links{
+    font-family: "Questrial", sans-serif;
+    font-weight: 500;
+  font-style: normal;
+  font-size: 17px;
+}
+
+.nav-logo{
+    margin-left: 55px;
+    width: 50%;
+
+    
+}
+
+
+.body{
+    background-color: #f4f4f4;
+    padding: 0px 52px;
+}
+
+.section-1{
+
+}
+
+.sub-1-section-1{
+
+    display: flex;
+}
+
+.sub1-texts{
+width: 50%;
+}
+
+.sub1-texts>div>h2{
+    font-size: 50px;
+    padding-top: 150px;
+    padding-bottom: 30px;
+}
+
+.sub1-texts>div>p{
+    color: gray;
+    font-size: 25px;
+    padding-bottom: 50px;
+}
+
+.buttons{
+display: flex;
+gap: 30px;
+padding-bottom: 50px;
+}
+
+.btn1{
+background-color: black;
+background-color: black;
+width: 150px;
+color: white;
+border: none;
+display: flex;
+height: 45px;
+justify-content: center;
+align-items: center;
+}
+
+.btn-img{
+
+}
+
+.btn2{
+    background-color: black;
+    width: 150px;
+    color: white;
+    border: none;
+    display: flex;
+    height: 45px;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec1-images{
+    width: 50%;
+}
+
+.sub1-images>img{
+    width: 500px;
+    height: 530px;
+    padding-top: 35px;
+    padding-bottom: 50px;
+}
+
+.sub-2-section-1{
+    background-color: #75BF7A;
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    align-items: center;
+  gap: 6px;
+}
+
+.sub2-texts{
+color: white;
+margin-left: 70px;
+}
+
+.sub2-texts>p{
+    width: 135px;
+    padding-left: 30px;
+}
+
+.sub2-enter-numb{
+    padding-left: 200px;
+    padding-right: 22px;
+}
+
+.sub2-enter-numb>input{
+    width: 480px;
+    height: 40px;
+    text-align: center;
+}
+
+.sub2-btn{
+    height: 45px;
+    width: 190px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 110px;
+}
+
+ 
