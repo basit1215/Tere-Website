@@ -162,4 +162,110 @@ margin-left: 70px;
     margin-right: 110px;
 }
 
+.section-2{
+    padding: 80px 90px;
+}
+
+.sub-1-section-2{
+text-align: center;
+color: black;
+}
+
+.sub-1-section-2>div>h3>span{
+    color: #75BF7A;
+}
+
+.sub-1-section-2>div>h3{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.sub-1-section-2>div>p{
+    font-size: 17px;
+    color: gray;
+    padding: 0px 315px;
+}
  
+.sub-2-section-2{
+    display: flex;
+    padding-top: 50px;
+
+}
+
+.left-side{
+width: 30%;
+text-align: right;
+ 
+}
+
+.left-side>div{
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.left-side>div>img{
+    margin-bottom: 10px;
+}
+
+.left-side>div>h4{
+    position: absolute;
+    top: 16px;
+    left: 281px;
+    font-size: 28px;
+    color: #75BF7A;
+}
+
+.left-side>div>h5{
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+
+.left-side>div>p{
+    line-height: 1.3em;
+}
+
+.center{
+    width:40%;
+   
+    display: flex;
+    justify-content: center;
+    
+}
+
+.center>img{
+    width: 325px;
+    height: 325px;
+       
+        padding-top: 15px;
+}
+.right-side{
+    width: 30%;
+    text-align: left;
+ 
+}
+
+.right-side>div>img{
+    margin-bottom: 10px;
+}
+
+.right-side>div{
+    position: relative;
+    margin-bottom: 62px;
+}
+
+.right-side>div>h4{
+    position: absolute;
+    top: 16px;
+    right: 281px;
+    font-size: 28px;
+    color: #75BF7A;
+}
+
+.right-side>div>h5{
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+
+.right-side>div>p{
+    line-height: 1.3em;
+}
