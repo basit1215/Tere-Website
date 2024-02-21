@@ -18,7 +18,8 @@
 
 .nav-pages-links{
     display: flex;
-    gap: 65px;
+    gap: 45px;
+
     align-items: center;
     margin-right: 55px;
 }
@@ -34,8 +35,9 @@
 .nav-links{
     font-family: "Questrial", sans-serif;
     font-weight: 500;
-  font-style: normal;
-  font-size: 17px;
+    font-style: normal;
+    font-size: 17px;
+    width: 116px;
 }
 
 .nav-logo{
@@ -159,7 +161,8 @@ margin-left: 70px;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-right: 110px;
+    margin-right: 25px;
+    margin-left: -20px;
 }
 
 .section-2{
@@ -183,7 +186,7 @@ color: black;
 .sub-1-section-2>div>p{
     font-size: 17px;
     color: gray;
-    padding: 0px 315px;
+    padding: 0px 270px;
 }
  
 .sub-2-section-2{
@@ -210,7 +213,7 @@ text-align: right;
 .left-side>div>h4{
     position: absolute;
     top: 16px;
-    left: 281px;
+    left: 237px;
     font-size: 28px;
     color: #75BF7A;
 }
@@ -222,6 +225,8 @@ text-align: right;
 
 .left-side>div>p{
     line-height: 1.3em;
+    font-size: 15px;
+    color: gray;
 }
 
 .center{
@@ -256,7 +261,7 @@ text-align: right;
 .right-side>div>h4{
     position: absolute;
     top: 16px;
-    right: 281px;
+    right: 237px;
     font-size: 28px;
     color: #75BF7A;
 }
@@ -268,6 +273,8 @@ text-align: right;
 
 .right-side>div>p{
     line-height: 1.3em;
+    color: gray;
+    font-size: 15px;
 }
 
 .section-3{
@@ -480,3 +487,4 @@ gap: 10px
 .footer-btn-1-2>p{
 
 }
+ 
