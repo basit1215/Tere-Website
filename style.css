@@ -213,7 +213,8 @@ text-align: right;
 .left-side>div>h4{
     position: absolute;
     top: 16px;
-    left: 237px;
+    left: 282px;
+
     font-size: 28px;
     color: #75BF7A;
 }
@@ -261,7 +262,7 @@ text-align: right;
 .right-side>div>h4{
     position: absolute;
     top: 16px;
-    right: 237px;
+    right: 282px;
     font-size: 28px;
     color: #75BF7A;
 }
